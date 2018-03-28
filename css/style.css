@@ -7,10 +7,10 @@
 }
 
 .container{
-  background-color: maroon;
-  color: white;
+  background-color: white;
+  color: navy;
   font-family: 'Futura';
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .header-behavior{
